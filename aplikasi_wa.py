@@ -1,6 +1,6 @@
 # WhatsApp Formatter dengan Simpan/Muat Draf ke Google Drive
 import streamlit as st
-from st_quill import st_quill
+from streamlit_quill import st_quill
 import json
 import re
 from google.oauth2 import service_account
